@@ -2,5 +2,5 @@
 
    add    : register changes to index
    commit : record the status of the index 
-
+   pull   : get the contents in remote repositry
 
