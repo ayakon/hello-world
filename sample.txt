@@ -1,2 +1,4 @@
  Monkeys understand git commands
 
+   add: record changes to index
+
