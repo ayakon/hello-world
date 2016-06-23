@@ -1,4 +1,6 @@
  Monkeys understand git commands
 
-   add: record changes to index
+   add    : register changes to index
+   commit : record the status of the index 
+
 
