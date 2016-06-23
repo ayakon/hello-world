@@ -1,4 +1,5 @@
  Monkeys understand git commands
 
-   add: record changes to index
+   add    : register changes to index
+   pull   : get the contents in remote repositry
 
