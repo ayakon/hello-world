@@ -4,3 +4,4 @@
    commit : record the status of the index 
    pull   : get the contents in remote repositry
 
+   test ssh : 2021/09/01
